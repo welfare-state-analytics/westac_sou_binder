@@ -1,0 +1,7 @@
+name: westac-sou-binder
+channels:
+- defaults
+dependencies:
+- pip
+- pip:
+  - humlab-penelope
