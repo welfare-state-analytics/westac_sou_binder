@@ -1,0 +1,14 @@
+{
+    "method": "gensim_mallet-lda",
+    "perplexity_score": null,
+    "coherence_score": -0.8338348432893019,
+    "engine_options": {
+        "n_topics": 200,
+        "alpha": "asymmetric",
+        "workers": 1,
+        "max_iter": 2500
+    },
+    "extra_options": {
+        "tfidf_weiging": false
+    }
+}

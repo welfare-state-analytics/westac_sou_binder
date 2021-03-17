@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "westac-sou-binder"
+version = "0.1.0"
+description = "Temamodellering av Statens Offentliga Utredningar."
+authors = ["aibakeneko <aibakeneko@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.8.5"
+humlab-penelope = "^0.3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
