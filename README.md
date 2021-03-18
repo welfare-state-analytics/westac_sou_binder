@@ -1,9 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/welfare-state-analytics/westac_sou_binder/HEAD?filepath=%2Fnotebooks%2F3_explore_topic_models.ipynb)
-# Welfare State Analytics - SOU
+# Welfare State Analytics - Status Offentliga Utredningar
 
+Temamodellering av 3000 statliga offentliga utredningar. Se blog [Från chiffer till klartext](http://pellesnickars.se/2021/02/fran-chiffer-till-klartext/).
 
-Temamodellering av Status Offentliga Utredningar
-
+Testa mtemamodelleringen live på [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/welfare-state-analytics/westac_sou_binder/HEAD?filepath=%2Fnotebooks%2F3_explore_topic_models.ipynb). Kortlänk: https://tinyurl.com/westac-sou
 
 <!-- - https://mybinder.org/v2/gh/welfare-state-analytics/westac_sou_binder/HEAD?filepath=%2Fnotebooks%2F3_explore_topic_models.ipynb
 
