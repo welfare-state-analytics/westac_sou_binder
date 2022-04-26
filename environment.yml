@@ -6,3 +6,5 @@ dependencies:
 - pip
 - pip:
   - humlab-penelope
+  - networkx
+  - wordcloud
