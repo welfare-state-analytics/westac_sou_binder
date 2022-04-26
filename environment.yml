@@ -2,7 +2,7 @@ name: westac-sou-binder
 channels:
 - defaults
 dependencies:
-- python=3.8
+- python=3.9.10
 - pip
 - pip:
   - humlab-penelope
